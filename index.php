@@ -435,7 +435,7 @@
   <script src="counterup.min.js"></script>
   <script src="isotope.pkgd.min.js"></script>
   <script src="venobox.min.js"></script>
-   <script src="owl.carousel/owl.carousel.min.js"></script>
+   <script src="owl.carousel.min.js"></script>
   <script src="typed.min.js"></script>
   <script src="aos.js"></script>
 
